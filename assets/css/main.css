@@ -3314,3 +3314,11 @@ input, select, textarea {
 			}
 
 	}
+
+	#capstone {
+
+	}
+
+	#capstone-image {
+		transition: opacity 1s ease-in-out;
+	}
