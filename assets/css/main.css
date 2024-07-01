@@ -2401,7 +2401,8 @@ input, select, textarea {
 				font-weight: 400;
 			}
 
-			ul.feature-icons li:before {
+			ul.feature-icons li:before,
+			ul.feature-icons li i:before {
 				background: #4acaa8;
 				border-radius: 100%;
 				color: #ffffff;
@@ -2414,6 +2415,7 @@ input, select, textarea {
 				top: 0;
 				width: 2.5em;
 			}
+
 
 /* Icons */
 
