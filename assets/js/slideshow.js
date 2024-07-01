@@ -26,11 +26,14 @@ function slider(){
 setInterval(slider,2500);
 
 // For second project
-const img2 = document.getElementById('group-image');
+const img2 = document.getElementById('fairshare-image');
 
 let slides2=[
-
-
+    'https://profile-images-pencrafted-capstone.s3.us-west-2.amazonaws.com/fairshare-feature-walkthrough.png',
+    'https://profile-images-pencrafted-capstone.s3.us-west-2.amazonaws.com/fairshare-expenses.png',
+    'https://profile-images-pencrafted-capstone.s3.us-west-2.amazonaws.com/fairshare-search-friend.png',
+    'https://profile-images-pencrafted-capstone.s3.us-west-2.amazonaws.com/fairshare-expenses.png',
+    'https://profile-images-pencrafted-capstone.s3.us-west-2.amazonaws.com/fairshare-dashboard.png'
 ];
 
 let start2=0;
