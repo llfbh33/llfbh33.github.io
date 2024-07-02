@@ -2065,7 +2065,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			height: 100%;
+			height:78%;
 		}
 
 		.image[data-position="top left"] img {
@@ -2804,7 +2804,7 @@ input, select, textarea {
 						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.65em 0;
 						text-decoration: none;
 					}
 
@@ -2831,11 +2831,15 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 0em 0 4em 0;
 		}
 
 		#main > section:first-child {
 			border-top: 0;
+		}
+
+		#main > section > .container:first-child {
+			padding: 6em 0 4em 0;
 		}
 
 /* Footer */
